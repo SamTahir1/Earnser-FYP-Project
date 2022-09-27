@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f431a2f.css",
+    "main.js": "/static/js/main.c34e31ee.js",
+    "static/media/user_Swa-Whet-Oakville.jpg": "/static/media/user_Swa-Whet-Oakville.a7ce5c7b614de1e423e1.jpg",
+    "static/media/user00_img.png": "/static/media/user00_img.71cea62e77f1cf76eed7.png",
+    "static/media/user2_img1.jpeg": "/static/media/user2_img1.db202a3f16e84023d466.jpeg",
+    "static/media/user3_img1.jpeg": "/static/media/user3_img1.db202a3f16e84023d466.jpeg",
+    "static/media/user1_Sign In (1).png": "/static/media/user1_Sign In (1).abce18dc996cc2202047.png",
+    "static/media/easypaisa.png": "/static/media/easypaisa.c7750fd335a71db21859.png",
+    "static/media/user123_IMG-20210316-WA0000.jpg": "/static/media/user123_IMG-20210316-WA0000.780da054bcd5cef769db.jpg",
+    "static/media/profile.jpeg": "/static/media/profile.eac50723b3579026ad22.jpeg",
+    "static/media/user3_profile.jpeg": "/static/media/user3_profile.eac50723b3579026ad22.jpeg",
+    "static/media/logo.png": "/static/media/logo.b54d04b87eb57ee66180.png",
+    "index.html": "/index.html",
+    "main.1f431a2f.css.map": "/static/css/main.1f431a2f.css.map",
+    "main.c34e31ee.js.map": "/static/js/main.c34e31ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f431a2f.css",
+    "static/js/main.c34e31ee.js"
+  ]
+}
