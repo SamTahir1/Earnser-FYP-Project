@@ -1,0 +1,334 @@
+.p, a, div{
+    font-family: "Times New Roman", Times, serif;
+}
+
+.leftAside,
+.rightAside,
+.recentPosts {
+  background-color: #343a40;
+  width:100%; 
+  height: 100vh;
+  overflow-x: hidden;  
+  overflow-y: hidden !important;
+  transition: 0.25 all;
+}
+
+.sidebar{
+  padding: 0% !important;
+}
+
+.leftAside {  
+  float:left; 
+  /* position: fixed; */
+ }
+
+.rightAside{
+  float:right;
+  height: 100px;
+}
+
+.contactside{
+  height:100vh !important;
+}
+
+.logout{
+  color: 1px solid #ffc61b !important;
+
+}
+
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+  background-color: #ffc61b !important;
+ }
+
+.addsolution, .addsolution:hover, .addsolution:active, .addsolution:visited{
+  background-color: #ffc61b00 !important;
+  border: none !important;
+} 
+.addQuery{
+  background-color: #ffc61b;
+  border: 1px solid #ffc61b;
+  border-color: #ffc61b;
+  color:black;
+  outline: none;
+  border-radius: 10px;
+}
+
+.btn-primary:hover {
+  background-color: #ffc61b;
+  outline: none;
+}
+.headerBar .col-lg-3{
+  max-width: 20%;
+ 
+}
+
+.logo{
+  border-radius: 1px solid;
+}
+
+.pageName{
+  height: 40px;
+}
+
+.signin.btn-primary{
+  background-color: #ffc61b;
+  border: 1px solid #ffc61b;
+  color:black;
+  outline: none;
+  border-radius: 5px;
+  max-width: 100%;
+
+}
+
+.signup.btn-secondary{
+  background-color: #ffc61b;
+  border: 1px solid #ffc61b;
+  color:black;
+  outline: none;
+  border-radius: 5px;
+  max-width: 100%;
+
+}
+
+.queryHeader{
+  color: #ffc61b;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 23px;
+  text-transform: uppercase;
+  background-color: #343a40 ;
+
+}
+
+.create-query-btn, .edit-query-btn, .login-btn, .singup, .form-btn,.btn-primary, .btn-primary:hover{
+  background-color: #ffc61b;
+  border: 1px solid #ffc61b;
+  color:black !important;
+  outline: none;
+  border-radius: 10px;
+}
+
+.title a, .title, .author a{
+  font-weight: bold;
+  color: #ffc61b;
+}
+
+.badge.rounded-pill{
+  color: white !important;
+}
+.delete-query-btn{
+  background-color: #eb121d;
+  border: 1px solid #eb121d;
+  outline: none;
+  border-radius: 10px;
+  color:black;
+}
+.delete-query-btn:hover{
+background-color: #eb121d;;
+}
+
+.Footer{
+  background-color: #343a40;
+  border-top: 1px solid #ffc61b !important;
+}
+
+
+
+.DeveloperImg{
+  border-radius: 200px;
+  width: 200px;
+}
+.alignimagetext{
+  text-align: center;
+}
+
+
+.dot {
+  height: 180px;
+  width: 180px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+
+
+.container{
+  height:100%;
+  align-content: center;
+}
+
+.image_outer_container{
+  margin-top: auto;
+  margin-bottom: auto;
+  border-radius: 50%;
+  position: relative;
+}
+
+.image_inner_container{
+  border-radius: 50%;
+  padding: 5px;
+ background:grey; 
+ background: -webkit-linear-gradient(to bottom, black, red, black); 
+ background: linear-gradient(to bottom, black, red, black);
+}
+.image_inner_container img{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 5px solid white;
+  height:150px;
+  width:150px;
+}
+
+.image_outer_container .green_icon{
+  background-color: #4cd137;
+  position: absolute;
+  right: 30px;
+  bottom: 10px;
+  height: 25px;
+  width: 25px;
+  border:5px solid white;
+  border-radius: 50%;
+}
+
+.Profile{
+  border-radius: 150px;
+}
+
+.footor-icon{
+  color: white;
+}
+
+.pkr{
+  background-color: #ffc61b !important;
+  color:black;
+}
+
+.points{
+  background-color: #ffc61b !important;
+  color:black;
+}
+
+.link{
+  color: white;
+  text-decoration: none !important; 
+}
+
+
+
+a{
+  text-decoration: none;
+  outline: none;
+}
+
+.recentPosts{
+  overflow-y: auto;
+}
+
+.queries-post{
+  overflow-y: auto;
+}
+.borderheader{
+  border-bottom: 3px solid #ffc61b !important;
+}
+
+.queryheader, .card-header{
+  border-bottom: 2px solid #ffc61b !important;
+}
+
+.title{
+  color: #ffc61b !important;
+}
+
+.sidebutton{
+  color: black !important;
+}
+
+.card, .card-header, .querybody{
+  background-color: #343a40 !important;
+  color:#f5f5f5;
+}
+
+
+
+
+#plugin-banner-advanced-custom-fields {
+  background-image: url(https://ps.w.org/advanced-custom-fields/assets/banner-772x250.jpg?rev=1729102);
+}
+
+.plugin-banner {
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+    margin: 0 auto 1.143rem;
+    padding-top: 32.38342%;
+    vertical-align: middle;
+    width: 100%;
+}
+.addsolution{
+  background-color: #fcfcfc00;
+  border: 1px solid #0e0e0e;
+}
+
+.solDes{
+  border: 2px solid #ffc61b !important;
+}
+
+.message-output{
+  height: 80vh;
+  border: 1px solid lightgray;
+  overflow-y: scroll;
+}
+.currentUserMsg{
+  margin-left: 50% !important;
+}
+.otherUsersMsg{
+  margin-right: 50% !important;
+}
+/* 
+.sidenav {
+  width: 300px;
+  position: fixed;
+  overflow-x: hidden;
+} */
+
+/* .headerBar{
+  position: fixed;
+  overflow: hidden;
+  width: 100%;
+}
+
+.main-content {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px;
+} */
+
+.message-output{
+  height: 80vh;
+  border: 1px solid black;
+  overflow-y: scroll;
+  background-image: url(https://w0.peakpx.com/wallpaper/220/854/HD-wallpaper-whatsapp-black-abstract-abstract-digital-abstraction-abstracts-background-digital-pattern-texture.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.currentUserMsg, .otherUsersMsg{
+  color: whitesmoke;
+  /* border-color: #ffc61ba4 !important; */
+  border-radius: 15px;
+}
+
+.chatUserName{
+  color: #ffc61bd9;
+}
+
+.homePageIcon:hover{
+  border: 2px solid black;
+  margin-bottom: 20px;
+}
